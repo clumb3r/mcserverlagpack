@@ -6,3 +6,4 @@ This repository is dedicated to a detailed analysis of minecraft java server mec
 * Detailed instructions on the inner workings of lag machines
 * Schematics
 * Various methods of lag such as entity or packet. 
+* History
