@@ -1,0 +1,19 @@
+Tools
+- Diamond Pickaxe
+- Baritone
+
+Chunk Loader Materials
+- Building blocks
+- 10 Glass
+- 20 obsidian
+- 2 Repeaters
+- 6 Comparators
+- 2 Redstone torches
+- 20 Redstone dust
+- 2 Hoppers
+- 6 Droppers
+- Several stacks of junk items to fill droppers
+
+Lag machine materials
+- Minecarts
+- Rails 
