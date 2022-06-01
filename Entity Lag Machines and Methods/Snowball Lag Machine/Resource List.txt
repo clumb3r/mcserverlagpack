@@ -1,0 +1,33 @@
+Tools
+- Diamond pickaxe
+- Shears
+Chunk loader materials
+- Building blocks
+- 10 Glass
+- 20 obsidian
+- 2 Repeaters
+- 6 Comparators
+- 2 Redstone torches
+- 20 Redstone dust
+- 2 Hoppers
+- 6 Droppers
+- Several stacks of junk items to fill droppers
+Lag machine materials
+- 3 Repeaters
+- 3 Redstone dust
+- 3 Redstone torches
+- 1 Lever
+- Building blocks
+- Lots of glass
+- 2 Water buckets
+- 1 Sign
+- 39 Soul sand
+- 3 Trapdoors
+- 2 Fences
+- 8 Iron bars
+- 1 Pumpkin
+- 128 Snow blocks
+- Named nametag
+- Zombie
+
+(***List created by zipdox / 0vip***)
