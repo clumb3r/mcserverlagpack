@@ -3,7 +3,7 @@ in-between your hotbar and off-hand. The sound packets generated crashed clients
 minecraft hack clients that blocked the sound packets generated. More recently popular plugins have caught up and released patches for the
 offhand crash. 
 
-Clients that featured offhand crash:
+Clients that feature offhand crash:
 WWE / Interia
 Rusherhack
 Meteor
