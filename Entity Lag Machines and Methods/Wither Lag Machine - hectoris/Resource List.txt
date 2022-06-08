@@ -1,0 +1,12 @@
+Lag machine materials (per section):
+2 sticky pistons
+11 slime blocks
+3 redstone blocks
+15 dispensers
+60 soul sand
+45 wither skeleton heads
+
+NEEDS ONE ENTITY FOR THE WITHERS TO TARGET TO MAXIMISE LAG
+
+by hectoris 
+6/6/22
