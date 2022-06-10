@@ -13,3 +13,5 @@ This repository is dedicated to a detailed analysis of minecraft java server mec
 * hectoris
 * _TheApple
 * Funtimes909
+
+![alt text](https://i.ytimg.com/vi/Ks7mmrer37g/maxresdefault.jpg)
