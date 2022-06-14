@@ -9,6 +9,7 @@ This repository is dedicated to a detailed analysis of minecraft java server mec
 * Schematics
 * Various methods of lag such as entity or packet. 
 * History
+* Miscellaneous Documentation
 
 # Contributors:
 * zipdox
