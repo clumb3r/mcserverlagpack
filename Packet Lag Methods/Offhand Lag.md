@@ -8,5 +8,5 @@ WWE / Interia
 Rusherhack
 Meteor
 
-First client to patch the offhand crash:
+First client to implement anti-offhandcrash:
 Future
