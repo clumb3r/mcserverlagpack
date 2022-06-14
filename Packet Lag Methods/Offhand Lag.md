@@ -9,5 +9,4 @@ Rusherhack
 Meteor
 
 First client to implement anti-offhandcrash:
-
 Future
